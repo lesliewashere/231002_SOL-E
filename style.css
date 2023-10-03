@@ -1,0 +1,21 @@
+h1{
+    color:black;
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 12px;
+    padding: 24px; 
+    font-weight: 600;
+
+    
+}
+p{
+    font-size: large;
+    background-color: beige;
+    text-align: center;
+    border-radius: 12px;
+    padding: 24px;
+}
+img{
+    border-radius: 20px ;
+    background-color: gray;
+}
